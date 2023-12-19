@@ -11,5 +11,10 @@ Here are my dotfiles for i3wm
 - [alacritty](https://alacritty.org/)
 - [spotify-i3blocks-plugin](https://github.com/firatakandere/i3blocks-spotify)
 - [rofi](https://github.com/davatorium/rofi)
-
+- [picom](https://github.com/yshui/picom)
+- [Terminus TTF font](https://aur.archlinux.org/packages/terminus-font-ttf)
 and more.
+---
+remember before downloading, download the [i3blocks-contrib](https://github.com/vivien/i3blocks-contrib) repository and place it in `~/.local/src/`
+
+tested in endevorOS and archlinux..
