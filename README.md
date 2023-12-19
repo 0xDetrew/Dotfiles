@@ -13,8 +13,9 @@ Here are my dotfiles for i3wm
 - [rofi](https://github.com/davatorium/rofi)
 - [picom](https://github.com/yshui/picom)
 - [Terminus TTF font](https://aur.archlinux.org/packages/terminus-font-ttf)
+- [feh](https://github.com/derf/feh)
 
-and more.
+<b>remember to download these packages!<b>
 
 ---
 remember before downloading, download the [i3blocks-contrib](https://github.com/vivien/i3blocks-contrib) repository and place it in `~/.local/src/`
